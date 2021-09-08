@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RequestMapping("user")
 public class UserController {
     private Integer id;
-    private String name;
+    private String name
     private String author;
     private String ss;
     public void Stringa(){
@@ -25,5 +25,6 @@ public class UserController {
         System.out.println("qeddad");
         System.out.println("mastera");
         System.out.println("hot-fix");
+        System.out.println("piso")
     }
 }
