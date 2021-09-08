@@ -20,4 +20,7 @@ public class UserController {
     private String name;
     private String author;
     private String ss;
+    public void Stringa(){
+        System.out.println("dada");
+    }
 }
