@@ -19,4 +19,5 @@ public class UserController {
     private Integer id;
     private String name;
     private String author;
+    private String ss;
 }
