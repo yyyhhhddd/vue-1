@@ -22,5 +22,6 @@ public class UserController {
     private String ss;
     public void Stringa(){
         System.out.println("dada");
+        System.out.println("qeddad");
     }
 }
